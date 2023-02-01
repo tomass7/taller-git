@@ -1,2 +1,4 @@
 let nombre = "Tomas"
-console.log("mi nombre: ",nombre)
+let apellido = "Apellido"
+
+console.log("mi nombre: ",nombre, "y su apellido es: ",apellido)
